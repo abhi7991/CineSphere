@@ -4,7 +4,7 @@
 
 # CineSphere
 
-This is a base repository for the project I am working on for INFO7375 ST: Prompt Engineering & AI
+## This is a base repository for the project I am working on for INFO7375 ST: Prompt Engineering & AI
 
 Movie recommendations using Knowledge Graphs and LLMs
 
