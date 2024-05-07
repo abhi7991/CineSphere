@@ -3,6 +3,9 @@
 </div>
 
 # CineSphere
+
+This is a base repository for the project I am working on for INFO7375 ST: Prompt Engineering & AI
+
 Movie recommendations using Knowledge Graphs and LLMs
 
 > [Codelabs Documentation](https://codelabs-preview.appspot.com/?file_id=1KAzKlqQ-GWZW9tSMoI07RWoFs0BkJ88tIaO6z5QGpnY#8)<br>
